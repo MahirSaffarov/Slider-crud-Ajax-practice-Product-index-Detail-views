@@ -11,6 +11,6 @@ namespace Fiorello.Services.Interfaces
         SliderInfoDetailVM GetMappedData(SlidersInfo slidersInfo);
         Task CreateAsync(SliderInfoCreateVM sliderInfoCreate);
         Task DeleteAsync(int id);
-        Task EditAsync(SlidersInfo slidersInfo, IFormFile newImage);
+        Task EditAsync(SlidersInfo slidersInfo, SliderInfoEditVM request);
     }
 }

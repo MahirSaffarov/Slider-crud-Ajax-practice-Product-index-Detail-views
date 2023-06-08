@@ -108,7 +108,7 @@ namespace Fiorello.Areas.Admin.Controllers
                 return View(request);
             }
 
-            await _sliderInfoService.EditAsync(slidersInfo, request.NewImage);
+            await _sliderInfoService.EditAsync(slidersInfo, request);
 
             return RedirectToAction(nameof(Index));
         }

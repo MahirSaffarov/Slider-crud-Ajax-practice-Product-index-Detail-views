@@ -521,6 +521,10 @@
       "PackagePath": "staticwebassets\\css\\style.css.map"
     },
     {
+      "Id": "C:\\Users\\mahir\\Documents\\CodeAcademy\\Asp.NET Core MVC\\Fiorello\\Fiorello\\Fiorello\\wwwroot\\img\\62a16404-912c-4015-8d59-3e3ab095e723_Screenshot 2023-06-08 150142.png",
+      "PackagePath": "staticwebassets\\img\\62a16404-912c-4015-8d59-3e3ab095e723_Screenshot 2023-06-08 150142.png"
+    },
+    {
       "Id": "C:\\Users\\mahir\\Documents\\CodeAcademy\\Asp.NET Core MVC\\Fiorello\\Fiorello\\Fiorello\\wwwroot\\img\\afc6ffca-aa32-4d9a-b14a-cfc744162d88_dino.png",
       "PackagePath": "staticwebassets\\img\\afc6ffca-aa32-4d9a-b14a-cfc744162d88_dino.png"
     },
@@ -537,10 +541,6 @@
       "PackagePath": "staticwebassets\\img\\blog-feature-img-4.jpg"
     },
     {
-      "Id": "C:\\Users\\mahir\\Documents\\CodeAcademy\\Asp.NET Core MVC\\Fiorello\\Fiorello\\Fiorello\\wwwroot\\img\\e7cf076f-c3ac-40e9-9157-a38a416ddc4a_Screenshot 2023-06-08 150142.png",
-      "PackagePath": "staticwebassets\\img\\e7cf076f-c3ac-40e9-9157-a38a416ddc4a_Screenshot 2023-06-08 150142.png"
-    },
-    {
       "Id": "C:\\Users\\mahir\\Documents\\CodeAcademy\\Asp.NET Core MVC\\Fiorello\\Fiorello\\Fiorello\\wwwroot\\img\\favicon.png",
       "PackagePath": "staticwebassets\\img\\favicon.png"
     },
@@ -551,10 +551,6 @@
     {
       "Id": "C:\\Users\\mahir\\Documents\\CodeAcademy\\Asp.NET Core MVC\\Fiorello\\Fiorello\\Fiorello\\wwwroot\\img\\h1-custom-icon.png",
       "PackagePath": "staticwebassets\\img\\h1-custom-icon.png"
-    },
-    {
-      "Id": "C:\\Users\\mahir\\Documents\\CodeAcademy\\Asp.NET Core MVC\\Fiorello\\Fiorello\\Fiorello\\wwwroot\\img\\h2-sign-img.png",
-      "PackagePath": "staticwebassets\\img\\h2-sign-img.png"
     },
     {
       "Id": "C:\\Users\\mahir\\Documents\\CodeAcademy\\Asp.NET Core MVC\\Fiorello\\Fiorello\\Fiorello\\wwwroot\\img\\h3-background-img.jpg",

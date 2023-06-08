@@ -81,8 +81,9 @@ namespace Fiorello.Services
                 System.IO.File.Delete(path);    
             }
         }
-        public async Task EditAsync(SlidersInfo slidersInfo, IFormFile newImage)
+        public async Task EditAsync(SlidersInfo slidersInfo, SliderInfoEditVM model)
         {
+            var newImage = model.NewImage;
             string oldPath = Path.Combine(_env.WebRootPath, "img", slidersInfo.SignImage);
 
             if (System.IO.File.Exists(oldPath))
@@ -93,8 +94,11 @@ namespace Fiorello.Services
             string fileName = Guid.NewGuid().ToString() + "_" + newImage.FileName;
 
             await newImage.SaveFileAsync(fileName, _env.WebRootPath, "img");
-
-            slidersInfo.SignImage = fileName;
+            
+                slidersInfo.SignImage = fileName;
+                slidersInfo.Info = model.Info;
+                slidersInfo.Title = model.Title;
+          
 
             await _context.SaveChangesAsync();
         }

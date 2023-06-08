@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "34+u5PkEHsDrLonI4bhJNqMKNSO3wF/ATklpufwJ1B0=",
+  "Hash": "ardCfLSnf1SQ3BJb5CYUkUr55GAdWbOPy9U/OzmiH8k=",
   "Source": "Fiorello",
   "BasePath": "_content/Fiorello",
   "Mode": "Default",
@@ -2227,6 +2227,23 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css.map"
     },
     {
+      "Identity": "C:\\Users\\mahir\\Documents\\CodeAcademy\\Asp.NET Core MVC\\Fiorello\\Fiorello\\Fiorello\\wwwroot\\img\\62a16404-912c-4015-8d59-3e3ab095e723_Screenshot 2023-06-08 150142.png",
+      "SourceId": "Fiorello",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mahir\\Documents\\CodeAcademy\\Asp.NET Core MVC\\Fiorello\\Fiorello\\Fiorello\\wwwroot\\",
+      "BasePath": "_content/Fiorello",
+      "RelativePath": "img/62a16404-912c-4015-8d59-3e3ab095e723_Screenshot 2023-06-08 150142.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\62a16404-912c-4015-8d59-3e3ab095e723_Screenshot 2023-06-08 150142.png"
+    },
+    {
       "Identity": "C:\\Users\\mahir\\Documents\\CodeAcademy\\Asp.NET Core MVC\\Fiorello\\Fiorello\\Fiorello\\wwwroot\\img\\afc6ffca-aa32-4d9a-b14a-cfc744162d88_dino.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
@@ -2295,23 +2312,6 @@
       "OriginalItemSpec": "wwwroot\\img\\blog-feature-img-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\mahir\\Documents\\CodeAcademy\\Asp.NET Core MVC\\Fiorello\\Fiorello\\Fiorello\\wwwroot\\img\\e7cf076f-c3ac-40e9-9157-a38a416ddc4a_Screenshot 2023-06-08 150142.png",
-      "SourceId": "Fiorello",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mahir\\Documents\\CodeAcademy\\Asp.NET Core MVC\\Fiorello\\Fiorello\\Fiorello\\wwwroot\\",
-      "BasePath": "_content/Fiorello",
-      "RelativePath": "img/e7cf076f-c3ac-40e9-9157-a38a416ddc4a_Screenshot 2023-06-08 150142.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\e7cf076f-c3ac-40e9-9157-a38a416ddc4a_Screenshot 2023-06-08 150142.png"
-    },
-    {
       "Identity": "C:\\Users\\mahir\\Documents\\CodeAcademy\\Asp.NET Core MVC\\Fiorello\\Fiorello\\Fiorello\\wwwroot\\img\\favicon.png",
       "SourceId": "Fiorello",
       "SourceType": "Discovered",
@@ -2361,23 +2361,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\h1-custom-icon.png"
-    },
-    {
-      "Identity": "C:\\Users\\mahir\\Documents\\CodeAcademy\\Asp.NET Core MVC\\Fiorello\\Fiorello\\Fiorello\\wwwroot\\img\\h2-sign-img.png",
-      "SourceId": "Fiorello",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mahir\\Documents\\CodeAcademy\\Asp.NET Core MVC\\Fiorello\\Fiorello\\Fiorello\\wwwroot\\",
-      "BasePath": "_content/Fiorello",
-      "RelativePath": "img/h2-sign-img.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\h2-sign-img.png"
     },
     {
       "Identity": "C:\\Users\\mahir\\Documents\\CodeAcademy\\Asp.NET Core MVC\\Fiorello\\Fiorello\\Fiorello\\wwwroot\\img\\h3-background-img.jpg",
